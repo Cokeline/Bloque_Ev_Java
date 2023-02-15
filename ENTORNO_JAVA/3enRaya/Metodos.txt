@@ -1,0 +1,25 @@
+	
+
+	Metodo DibuarTablero{ Para darle un toque grafico}
+
+	Metodo void MostrarMenu{}
+
+	Metodo boolean comprobacionPosicion
+
+	Metodo juego
+
+	Metodo 2jugadores{}
+
+	Metodo 1jugador {Para la selección del modo 1 jugador}
+
+	Metodo comprobarMovimiento
+
+	Metodo CoordenadasAleatorias
+
+	Metodo Comprobar coordenadasaleatorias()
+
+	Metodo boolean ComprobarGanador{ Para ver quien gana }
+
+	Metodo LimpiarTablero()
+	
+	Metodo LimpiarPantalla()
